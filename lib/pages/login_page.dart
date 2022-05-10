@@ -26,7 +26,7 @@ class _loginPageState extends State<loginPage> {
         changedBox = false;
       });
     }
-  }
+  } 
 
   @override
   Widget build(BuildContext context) {
